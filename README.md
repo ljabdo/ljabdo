@@ -3,17 +3,17 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ljabdo&label=Profile%20views&color=0e75b6&style=flat" alt="ljabdo" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljabdo" alt="ljabdo" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljabdo" alt="ljabdo" /></a> </p> -->
 
 - 🔭 I’m currently working on [Todo / note app](https://github.com/ljabdo/SeniorProject)
 
 - 🌱 I’m currently learning **React, Node, Databases, AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ljabdo](https://github.com/ljabdo)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/ljabdo](https://github.com/ljabdo)
 
 - 💬 Ask me about **Embedded systems, operating systems, security**
 
-- ⚡ Fun fact **Idaho boy that loves to surf.**
+- ⚡ Fun fact **Idaho boy that loves to surf.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
