@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljabdo" alt="ljabdo" /></a> </p> -->
 
-- 🔭 I’m currently working on [Todo / note app](https://github.com/ljabdo/SeniorProject)
+<!-- 🔭 I’m currently working on [Todo / note app](https://github.com/ljabdo/SeniorProject) -->
 
 - 🌱 I’m currently learning **React, Node, Databases, AI**
 
